@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 int main() {
 
    int teaBags;
@@ -10,7 +11,7 @@ int main() {
    cin >> teaBags;
 
    if (teaBags < 10) {
-      // teaBags = teaBags + 5
+      // teaBags = teaBags + 5;
       teaBags += 5;
    } 
    cout << "Your total bags are: " << teaBags;

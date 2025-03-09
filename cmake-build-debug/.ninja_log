@@ -1,0 +1,20 @@
+# ninja log v6
+37	267	7540748569747007	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/Challange/challange2.cpp.obj	be6ae2f8fcad21f6
+44	287	7540748569812183	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/Challange/challange3.cpp.obj	eea67f35fc76e8bc
+28	306	7540748569651754	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/Challange/challange1.cpp.obj	7a0cd8914b1e9991
+13	339	7540748569501136	CMakeFiles/Chai_Aur_CPP.dir/01_varConst/data.c.obj	e228cade7cdfbf8
+5	967	7540748569420686	CMakeFiles/Chai_Aur_CPP.dir/00_init/test.cpp.obj	e8ddfd0bc7f35dde
+20	983	7540748569571460	CMakeFiles/Chai_Aur_CPP.dir/01_varConst/main.cpp.obj	9524b4d587d30e5d
+288	1122	7540748572245739	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/data.cpp.obj	2dbd9ebff1c60a28
+307	1143	7540748572436570	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/modifier.cpp.obj	8f31e0c70b125421
+268	1160	7540748572054019	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/casting.cpp.obj	2894fb6bfc985bfd
+1143	1313	7540748580801026	CMakeFiles/Chai_Aur_CPP.dir/03_operators/logical.cpp.obj	96958cb8578d3291
+339	1321	7540748572763707	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/myString.cpp.obj	80903e7624eaa6c
+1160	1342	7540748580981526	CMakeFiles/Chai_Aur_CPP.dir/03_operators/relatioin.cpp.obj	89609d9eb554a2cf
+1313	1477	7540748582500570	CMakeFiles/Chai_Aur_CPP.dir/04_conditionals/taskFour.cpp.obj	db999f681549ee28
+1322	1498	7540748582590907	CMakeFiles/Chai_Aur_CPP.dir/04_conditionals/taskOne.cpp.obj	7189710bad6f36ad
+1342	1545	7540748582791696	CMakeFiles/Chai_Aur_CPP.dir/04_conditionals/taskThree.cpp.obj	7a0e5ae384dd226e
+1477	1640	7540748584142365	CMakeFiles/Chai_Aur_CPP.dir/04_conditionals/taskTwo.cpp.obj	38eb285f8244863d
+983	1743	7540748579203949	CMakeFiles/Chai_Aur_CPP.dir/03_operators/arithmetic.cpp.obj	33084d2b84b572ad
+968	1798	7540748579051786	CMakeFiles/Chai_Aur_CPP.dir/02_primitives/userInput.cpp.obj	99209c76000df3db
+1122	1853	7540748580590369	CMakeFiles/Chai_Aur_CPP.dir/03_operators/assign.cpp.obj	9b66602cdc9c5053
