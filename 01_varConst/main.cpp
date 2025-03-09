@@ -12,10 +12,7 @@ int main() {
 
    // gaurav_balance = 20000;   /// not modifable because declare as const 
 
-
    
-
-
    cout <<" hello from gaurav ghuge" <<endl;
 
 }
