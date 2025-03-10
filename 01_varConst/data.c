@@ -20,7 +20,8 @@ void calculateTrigFunctions(double angle) {
     // Check for tangent undefined cases (cosine is zero)
     if (cosine == 0) {
         printf("Tangent: undefined (division by zero)\n");
-    } else {
+    } 
+    else {
         printf("Tangent: %.4f\n", tangent);
     }
 }
